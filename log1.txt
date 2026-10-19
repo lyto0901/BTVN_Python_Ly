@@ -9,3 +9,4 @@ if check in log:
     print("❌ Có lỗi xảy ra")
 else:
     print("✅ Hệ thống bình thường")
+print("Completed")
